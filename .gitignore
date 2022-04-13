@@ -44,3 +44,6 @@ vignettes/*.pdf
 .Rdata*
 .Rhistory
 >>>>>>> b69d079d7171fe6e52274a86c5a0bf64e5741729
+
+# Sandbox / testing files
+99*
