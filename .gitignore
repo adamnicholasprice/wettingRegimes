@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+## Data and docs file
+data/
+docs/
+
 # History files
 .Rhistory
 .Rapp.history
